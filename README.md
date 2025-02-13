@@ -8,5 +8,5 @@ To perform this task well, you must use advanced Excel lookup functions, apply p
 to help management understand financial performance at first glance,
 which is challenging to do with this data. But these are the type of tasks a well-prepared analyst needs to be able to perform on the job.
 
-Finally, you’ll be asked to interpret the firm’s financials using trend and profitability margin analysis.
-Test your ability to synthesize complex financial P&L data into easy-to-understand insights that can be presented to a professional audience.
+I add dataset and of course solution files. You can check yourself also.
+I added waterfall graph for 2023 year. It representes our profit loss table visually.
